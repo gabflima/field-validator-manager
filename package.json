@@ -1,0 +1,9 @@
+{
+  "name": "field-validator-manager",
+  "version": "1.0.0",
+  "description": "Simple abstraction for field validation.",
+  "main": "field_validator_manager.js",
+  "files": ["field_validator_factory.js"],
+  "author": "gabflima <gabriel.ferrugem.lima@gmail.com>",
+  "license": "MIT"
+}
